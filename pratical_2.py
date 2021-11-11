@@ -1,0 +1,8 @@
+number_1 = int(input("Enter the first number: "))
+number_2 = int(input("Enter the second number: "))
+print("Adidition of both the numbers is: ", number_1 + number_2)
+print("Subtraction of both the numbers is: ", number_1 - number_2)
+print("Remainder of the two numbers when divided by one another is: ", number_1 % number_2)
+print("Quotient of the two numbers is: ", number_1 / number_2)
+print("Quotient of integer division is: ", number_1 // number_2)
+print("Multiplication of the two numbers is: ", number_1 * number_2)
